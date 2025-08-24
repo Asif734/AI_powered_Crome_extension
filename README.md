@@ -102,3 +102,7 @@ project-root/
 ├── .env
 ```
 
+## 8. Demo Screenshot 
+
+
+![AI Summarizer & Chatbot](Extension.png)
